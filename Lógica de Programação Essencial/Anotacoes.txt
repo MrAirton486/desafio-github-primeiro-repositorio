@@ -1,0 +1,10 @@
+Lógica de programação
+
+O que é:
+- É basicamente a contextualização da lógica na programação de computadores, sempre em busca da melhor sequência de ações na solução de um problema.
+
+Metacognição:
+- Pensar como você pensa.
+
+Abstração:
+- É a habilidade de se concentrar nos aspectos essenciais de um contexto qualquer, ignorandod características menos relevantes.

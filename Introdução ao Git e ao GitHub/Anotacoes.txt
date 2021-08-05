@@ -1,2 +1,10 @@
 Link para dowload do Git: hhtp://git.scm.com/dowloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Beneficios:
+1 - Controle de versões
+2 - Armazenamento em nuvem
+3 - Trabalho em equipe
+4 - Melhorar o código
+5 - Reconhecimento
+

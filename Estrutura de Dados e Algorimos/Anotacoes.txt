@@ -1,0 +1,12 @@
+Estrutura de dados:
+- É uma estrutura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados de forma correta.
+
+Principais estruturas:
+- Vetores de Matrizes
+- Registro
+- Lista
+- Pilha
+- Fila
+- Árvore
+- Tabela Hash
+- Grafos
